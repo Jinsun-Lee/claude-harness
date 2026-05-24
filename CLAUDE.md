@@ -3,4 +3,4 @@
 @rules/code.md
 @rules/git.md
 @guides/naming.md
-@guides/docs.md
+@guides/doc_style.md
