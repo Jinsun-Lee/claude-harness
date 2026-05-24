@@ -1,6 +1,6 @@
 # 전역 지침
-@instructions/response.md
-@instructions/code.md
-@instructions/git.md
-@reference/naming.md
-@reference/docs.md
+@rules/response.md
+@rules/code.md
+@rules/git.md
+@guides/naming.md
+@guides/docs.md
