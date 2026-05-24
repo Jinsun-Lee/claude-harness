@@ -2,5 +2,4 @@
 @rules/response.md
 @rules/code.md
 @rules/git.md
-@rules/code_naming.md
 @rules/doc_style.md
