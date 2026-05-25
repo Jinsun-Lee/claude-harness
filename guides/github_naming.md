@@ -21,7 +21,7 @@
 ## 템플릿
 1. 템플릿 레포는 `{도메인}-template` 형식으로 작성한다.
 2. `template`은 항상 suffix로만 둔다.
-3. `ROS2-template`은 기존 호환성 때문에 유지한다.
+3. 현재 사용하는 템플릿은 `ai-template`, `cs-template`, `devops-template`, `embedded-template`, `misc-template`이다.
 
 <br>
 
